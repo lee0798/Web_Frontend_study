@@ -1,1 +1,1 @@
-# NOMAD java-script-make-a-chrome app 
+# NOMAD java-script-make-a-chrome WEB

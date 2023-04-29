@@ -1,3 +1,4 @@
+<<<<<<<< HEAD:JS_Theory.js
 //print
 console.log()
 //variable: const let var
@@ -73,3 +74,25 @@ if(isNaN(age))
 }else{
     console.log("you can drink");
 }
+========
+const h1=document.querySelector("div.hello:first-child h1");
+function handleTitleClick(){
+    if(h1.className==="active"){
+        h1.className="";
+    }else{
+        h1.className="active";
+    }
+
+}
+
+h1.addEventListener("click",handleTitleClick);
+
+
+
+
+
+
+
+
+
+>>>>>>>> origin/main:app.js
